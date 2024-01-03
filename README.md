@@ -1,7 +1,8 @@
 #### I'm Yosong
 
-求知若渴，虚心若愚。
+##### Be hungry for knowledge, be humble as a fool.
 
-前端开发(喜欢一些新奇的技术,热爱前端的所见即所得)
+Front-end development (like some novel technology, love the front-end WYSIWYG)
 
-动漫爱好者(推荐: 宫崎骏、新海诚、林魂)
+Anime lovers (Recommended: Hayao Miyazaki, Makoto Shinkai, Lin Hun)
+
