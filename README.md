@@ -9,7 +9,7 @@ Anime lovers (Recommended: Hayao Miyazaki, Makoto Shinkai, Lin Hun)
 
 
 
-<figure>
+<p>
 <img src="./javascript.png"/><img src="./typescript.png"/><img src="./vue.png"/><img src="./react.png"/><img src="./uniapp.png"/><img src="./python.png"/>
-</figure>
+</p>
 
