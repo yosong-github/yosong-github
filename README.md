@@ -3,7 +3,7 @@
 
 
 
-Front-end development (like some novel technology, love the front-end WYSIWYG)
+Front-end developers (like some novel technology, love the front-end WYSIWYG)
 
 Anime lovers (Recommended: Hayao Miyazaki, Makoto Shinkai, Lin Hun)
 
@@ -17,4 +17,3 @@ Anime lovers (Recommended: Hayao Miyazaki, Makoto Shinkai, Lin Hun)
     <img src="./uniapp.png"/>
     <img src="./python.png"/>
 </p>
-
